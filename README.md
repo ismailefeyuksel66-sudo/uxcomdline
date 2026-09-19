@@ -7,6 +7,9 @@
 
 UXComdline is an application you can use to launch and use your Python applications more conveniently.
 
+> [!NOTE]
+> This project is under development; please let us know if you encounter any errors.
+
 > **UXComdline** — How to install UXComdline
 
 
@@ -19,3 +22,12 @@ Afterwards, go to the folder
 ```bash
 cd uxcomdline
 ```
+
+You are currently inside the folder.
+Now, let's start the installation file.
+```bash
+bash install.bash`
+```
+You will be asked for your sudo password; enter it, and the installation will begin. 
+
+> **UXComdline** — How to use UXComdline

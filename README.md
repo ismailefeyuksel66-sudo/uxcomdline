@@ -26,7 +26,7 @@ cd uxcomdline
 You are currently inside the folder.
 Now, let's start the installation file.
 ```bash
-bash install.bash`
+bash install.bash
 ```
 You will be asked for your sudo password; enter it, and the installation will begin. 
 

@@ -31,3 +31,11 @@ bash install.bash`
 You will be asked for your sudo password; enter it, and the installation will begin. 
 
 > **UXComdline** — How to use UXComdline
+
+| Command | Explanation |
+| :--- | :--- |
+| `uxcomdline --help` | Show all available commands |
+| `uxcomdline --download <python-file> <appname>` | Download/Install and encrypt a python script |
+| `uxcomdline --list` | List all installed applications |
+| `uxcomdline --remove <appname>` | Remove a specific installed application |
+| `uxcomdline --<appname>` | Run the specified application |
